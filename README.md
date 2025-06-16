@@ -16,6 +16,7 @@ Over the course of about 2 years, I was developing automation systems using C#. 
 [![CodeWars](https://img.shields.io/badge/CodeWars-FD1212)](https://codewars.com/users/ylmazozgur)
 [![HackerRank](https://img.shields.io/badge/Hacker_Rank-FD1212)](https://hackerrank.com/profile/ylmazozgur)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/ylmazozgur/)
+[![Twitter](https://img.shields.io/badge/Twitter-ffdd54)](https://x.com/bobayobasiren)
 
 # Programming Languages:
 
